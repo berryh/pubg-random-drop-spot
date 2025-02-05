@@ -21,7 +21,7 @@ const placesPerMap = [
   // Deston
   ["Ten Forts", "Carpenter's End", "Swamp", "Los Arcos", "Concert", "Assembly", "Buxley", "Construction Site", "Wind Farm", "Barclift", "Turrita", "Arena", "Cavala", "Hydroelectric Dam", "Lodge", "Ripton", "El Koro", "Sancarna", "Holston Meadows"],
   // Rondo
-  ["Min Hu", "Nan Chuan", "Rai An", "Kun Xia", "Hernay Town", "Mu Ho Pan", "Bei Li", "Stadium", "Bamboo", "Jao Tin", "Test Track", "Neox Factory", "Lo Hua Xing", "Mey Ran", "Yu Lin", "Yuo Gu", "Fong Tun", "Dan Ching", "Tu Ling", "Jadena City", "Lan Po", "Hung Shan", "Long Ho", "Rin Jiang", "Tin Long Garden"]
+  ["Min Hu", "Nan Chuan", "Rai An", "Kun Xia", "Hernay Town", "Mu Ho Pan", "Bei Li", "Stadium", "Bamboo", "Jao Tin", "Test Track", "Neox Factory", "Lo Hua Xing", "Mey Ran", "Yu Lin", "Yun Gu", "Fong Tun", "Dan Ching", "Tu Ling", "Jadena City", "Lan Po", "Hung Shan", "Long Ho", "Rin Jiang", "Tin Long Garden"]
 ]
 </script>
 
