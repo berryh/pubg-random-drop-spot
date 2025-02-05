@@ -33,7 +33,7 @@ const placesPerMap = [
     </span>
     </h1>
     <div class="block text-center">
-      <Tabs value="0" scrollable>
+      <Tabs value="0" scrollable lazy>
         <TabList>
           <Tab value="0">Erangel</Tab>
           <Tab value="1">Miramar</Tab>

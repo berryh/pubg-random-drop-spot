@@ -20,4 +20,6 @@ randomSpot();
   <Button @click="randomSpot"><span class="pi pi-refresh"/>Pick Random Spot</Button>
   <br><br>
   <p class="text-1xl">We have {{ places.length }} possible {{ places.length > 1 ? "spots" : "spot" }}.</p>
+  <br>
+  <p class="text-sm text-gray-500">Picked at: {{ new Intl.DateTimeFormat(undefined, {dateStyle: "short",timeStyle: "medium"}).format(Date.now())}}</p>
 </template>
