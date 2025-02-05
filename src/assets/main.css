@@ -1,2 +1,6 @@
 @import "tailwindcss";
 @import "primeicons/primeicons.css";
+
+.drop-spot-shadow {
+	text-shadow: 1px 1px 50px #fff;
+}

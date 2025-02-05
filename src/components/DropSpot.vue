@@ -15,7 +15,7 @@ randomSpot();
 <template>
   <h2 class="text-2xl tracking-tight sm:text-2xl md:text-2xl p-2">Your drop location will be:</h2>
   <br>
-  <h1 class="text-2xl font-bold tracking-tight sm:text-2xl md:text-2xl p-2">{{ dropSpot }}</h1>
+  <h1 class="text-2xl font-bold tracking-tight sm:text-2xl md:text-2xl p-2 drop-spot-shadow">{{ dropSpot }}</h1>
   <br>
   <Button @click="randomSpot"><span class="pi pi-refresh"/>Pick Random Spot</Button>
   <br><br>
